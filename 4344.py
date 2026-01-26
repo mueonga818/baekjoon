@@ -13,3 +13,6 @@ for i in range(C):
     rate = c / a[0] * 100
     p = round(rate,3)
     print(p,'%',sep='')
+# git add .
+# git commit -m "머시기"
+# git push
